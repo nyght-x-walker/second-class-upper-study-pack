@@ -1,0 +1,179 @@
+--- Slide 1 ---
+BIOL 311: | Plant Metabolism (3 credits) | Linda Anaba | University of Energy and Natural Resources, Sunyani | Biological Sciences Department
+
+--- Slide 2 ---
+Course Description | Plant Metabolism explores the fundamental aspects of metabolic processes in plants | Consists of biochemical pathways and regulatory mechanisms involved in plant metabolism, including; | Overview of plant metabolism and its significance in plant growth and development. | Photosynthesis | Respiration | 2
+
+--- Slide 3 ---
+Course Description Cont’d | Nitrogen metabolism | Forms of nitrogen available to plants | Nitrate reduction | Relationship of nitrate reduction to respiration | Assimilation of ammonium into organic compounds | Nitrogen cycle | Lipid metabolism | Protein synthesis | Secondary metabolite synthesis | Mineral nutrition | Water culture experiments | Role of Mineral nutrient in plant metabolism | Mineral deficiency
+
+--- Slide 4 ---
+4 | Mode of delivery | Lectures (face-to-face and online), tutorials, seminars, practicals and hands-on exercises, field visits.
+
+--- Slide 5 ---
+Metabolism
+
+--- Slide 6 ---
+Metabolism | Metabolism refers to all the chemical reactions that occur in cells to convert food substances into energy for cellular activities and maintenance of organisms. | Metabolism is the mechanism living organisms utilize to release energy from food to synthesize new molecules. | It involves series biochemical reactions such as; | Photosynthesis | Respiration | And the synthesis and degradation of organic compounds
+
+--- Slide 7 ---
+Metabolism is the sum of the chemical changes that convert: | Nutrients into energy. | Chemically | complex substances | of cells into | simpler forms. | Chemically | simple substances | into functional | complex biomolecules.
+
+--- Slide 8 ---
+Metabolism is a | network of metabolic /biochemical reactions. | Carried out in living cells. | In a | well-organized, integrated, and regulated manner. | Related to various biomolecules viz | Carbohydrates | Lipids | Proteins | Nucleoproteins | Metabolism
+
+--- Slide 9 ---
+Metabolism involves | interconversions of chemical compounds | in the body. | Metabolite | precursors | are transformed into | end products | via many | specific intermediates.
+
+--- Slide 10 ---
+Metabolism | There are two major pathways of metabolism; | Catabolism: | Breakdown of large molecules to release free energy or usable energy. | Catabolism is an energy-yielding process | Metabolic rate determines the rate of production of free energy | Metabolic rate can be affected by environmental factors such as stress, i.e., low or high temperature,  and low oxygen | An example of catabolism is respiration, which takes place in the mitochondrion. | 2. Anabolism: | Energy-requiring synthesis of new materials for growth. | It is powered by free energy | The most common form of free energy is called Adenosine Triphosphate (ATP) | Anabolism takes place in the cytoplasm. | Examples of anabolism are photosynthesis and protein synthesis
+
+--- Slide 11 ---
+Types of Metabolic Pathway | Catabolic | /Degradative /Energy Generating/ATP producing Pathways/Exergonic. | Anabolic | /Synthetic/Energy Utilizing/ | ATP Using Pathways/Endergonic | .
+
+--- Slide 12 ---
+Catabolic pathways involve oxidative reactions producing reducing equivalents- | NADH+H | + | and FADH2. | Catabolic pathways converge to a few end products.
+
+--- Slide 13 ---
+The 3-Stages of Catabolism | Stage | I | Proteins | Polysaccharides | Lipids | Stage | II | Stage | III | Amino acids | Glucose | Glycerol, fatty acids | Acetyl-Co A | NH₃ | H₂O | CO₂ | Pyruvate | Citric | Acid | Cycle | Large biomolecules | Building-block molecules | Common degradation product | Simple, small end products of catabolism | Pentoses | Hexoses
+
+--- Slide 14 ---
+
+
+--- Slide 15 ---
+Catabolism and Anabolism | Energy-yielding | nutrients | Carbohydrates | Fats | Proteins | Cell | macromolecules | Proteins | Polysaccharide | Lipids | Nucleic acids | ATP | NADPH | Chemical energy | Energy-poor end products | CO₂ | H₂O | NH₃ | Precursor | molecules | Amino acids | Sugars | Fatty acids | Nitrogenous bases | Catabolism | Anabolism
+
+--- Slide 16 ---
+Identify each process as catabolism or anabolism | Cellular respiration | Photosynthesis | Glycolysis | Converting amino acids to proteins | Converting nucleic acids into nucleotides
+
+--- Slide 17 ---
+ATP | ATP is a high-energy molecule. | It is made up of three forms – ATP,  AMP and ADP | Interconversions between them are important for metabolic rates | The interconversions are called ADP – ATP Phosphorylation | ADP + Pi  = ATP,  ADP is recharged or phosphorylated in the mitochondrion to ATP which is discharged in the cytoplasm. | Chemical composition of ATP | Purine Base (Adenine) | Five Carbon Sugar (Ribose) | Phosphate Group
+
+--- Slide 18 ---
+Chemical Structure of ATP | HC | N | C | C | N | C | NH₃ | N | CH | N | ADENINE | H | O | H | OH | H | OH | H | CH₂ | O | P | O | P | O | P | O | O | O | O ⁻ | O ⁻ | O ⁻ | O ⁻ | D - Ribose | ADP | ATP | Point of cleavage to form ADP
+
+--- Slide 19 ---
+Metabolite | Metabolite is a | substrate or a reactant | undergoing a biochemical/metabolic reaction.
+
+--- Slide 20 ---
+FUELS FOR AEROBIC METABOLISM | Carbohydrates | Fats and Lipids | Amino Acids
+
+--- Slide 21 ---
+Metabolic rate | The rate at which metabolism occurs in a living organism. | Metabolism per unit time. | The speed at which an organism uses energy to carry out its life processes. | Measurement of energy usage. | Can be measured using: | Energy value of food | Amount of oxygen used up | Amount of heat produced | Amount of metabolic water produced
+
+--- Slide 22 ---
+Individual Assignment | With the aid of labelled diagrams, explain how each of the following can be used to estimate metabolic rate | Amount of heat produced | Energy value of food | Amount of oxygen used up | Amount of metabolic water produced | Date of submission: | 9 | th | November, 2026
+
+--- Slide 23 ---
+Levels of Metabolic rate | Standard Metabolic Rate | – Also known as Basal Metabolic Rate (BMR) – defined as lack of activity and reduced physiological activities. | Routine Metabolic Rate – | Metabolic rate registered under minimal activity | Average Daily Metabolic Rate – | also known as field metabolic rate and is a measure of metabolic activities over a 24-hour period. | Active Metabolic Rate – | maximum metabolic rate under specific levels of activity | Metabolic rates are related to the size of the organism and the rate of oxygen consumption.
+
+--- Slide 24 ---
+Metabolic rate determines food intake, growth, excretion, and other functions. | Metabolic rate is affected by size. | Factors that affect size are; | Phylogenetic inheritance | Basic physiological design | Basic mechanical design | Habitat | Selective pressures
+
+--- Slide 25 ---
+
+
+--- Slide 26 ---
+Patterns of metabolic rate | Metabolic Conformers | – these have a respiratory rate that is directly proportional to the ambient oxygen | Thus, metabolic rates change with changes in environmental conditions | Metabolic Regulators | – these maintain their | respiratory rates | under reduced oxygen supply | They maintain relatively stable metabolic activity through physiological adjustments.
+
+--- Slide 27 ---
+Importance Of Metabolism | Normal Metabolism is vital for the | Health, | Growth, | Reproduction, | Good survival of plants | .
+
+--- Slide 28 ---
+Role of  Enzymes and Hormones | in Metabolism
+
+--- Slide 29 ---
+Enzymes along with Coenzymes | biocatalyze | specific metabolic reactions. | Thus Enzymes | are “Functional units of Metabolism”
+
+--- Slide 30 ---
+Hormones are | chemical messengers of the body. They are | regulators of Enzyme activity. | (Hormones Stimulate/Inhibit   Enzyme activity) | Enzyme | reactions are organized into | discrete pathways.
+
+--- Slide 31 ---
+Metabolic Reaction | Metabolic reaction is a biochemical reaction where a metabolite is specifically reacted by an Enzyme and Coenzyme to give a product. | A | E-Co | B
+
+--- Slide 32 ---
+Types Of Metabolic Reactions | Reversible   Reactions – | Same Enzyme is required. | Not regulatory steps. | E1 | A | E1 | B
+
+--- Slide 33 ---
+Irreversible Reactions- | Different sets of Enzymes required. | Non-equilibrium Reactions. | Regulatory steps. | E2 | C | E3 | D
+
+--- Slide 34 ---
+Types Of | Biochemical Reactions
+
+--- Slide 35 ---
+Assignment (2) | Briefly explain the following terms: | Oxidation/Dehydrogenation/Hydroxylation | Reduction | Hydrolytic | Carboxylation | Decarboxylation | Phosphorylation | Dephosphorylation | Amination | Deamination | Isomerization | Hydration | Dehydration
+
+--- Slide 36 ---
+Metabolic Pathway | A metabolic pathway is a | series of well-defined and significant biochemical reactions | followed one after another, giving | intermediate products | and finally the | end product | of the pathway.
+
+--- Slide 37 ---
+A | Precursor of the pathway (A) | E1 | B | E2 | C | Intermediates of the pathway (B,C,D) | E3 | D | E4 | E | End Product of the pathway (E)
+
+--- Slide 38 ---
+Organization of Pathways | Pathways consist of sequential steps. | The enzymes may be | separate. | May form a | multienzyme complex. | May be a | membrane-bound system. | New research indicates that | multienzyme complexes are more common | than once thought.
+
+--- Slide 39 ---
+Multienzyme complex | Separate | enzymes | Membrane | Bound System
+
+--- Slide 40 ---
+Compartmentalization Of Metabolic Pathways
+
+--- Slide 41 ---
+Compartmentalization of pathways permits | integration | and | regulation | of metabolism.
+
+--- Slide 42 ---
+Phosphoryl-group Transfer
+
+--- Slide 43 ---
+Anabolic | pathways diverge to synthesize many biomolecules. | .
+
+--- Slide 44 ---
+
+
+--- Slide 45 ---
+Some pathways serve both in catabolism and anabolism ,those are | Amphibolic pathways.
+
+--- Slide 46 ---
+Amphibolic Pathways | occur at the | crossroads of metabolism. | Amphibolic pathways link | between | Anabolic and Catabolic pathways.
+
+--- Slide 47 ---
+Regulation of Metabolic Pathways
+
+--- Slide 48 ---
+Regulation means | stimulation and inhibition of pathways | as per cellular need. | Hormones regulate | the metabolic pathways. | Metabolic pathways are regulated to allow the organism to | respond to changing conditions.
+
+--- Slide 49 ---
+Every | metabolic pathway | has its | specific regulatory enzymes/key enzymes. | Hormones regulate | by either  stimulating /inhibiting the | regulatory/key enzymes | of the pathway.
+
+--- Slide 50 ---
+Modes Of Metabolic Regulation | Allosteric regulation | Covalent modification | Control of enzyme levels | Compartmentalization | Metabolic specialization of organs
+
+--- Slide 51 ---
+Feedback inhibition | – product of pathway downregulates activity of early step in pathway
+
+--- Slide 52 ---
+Feedforward activation | – metabolite produced early in the pathway activates a downstream enzyme.
+
+--- Slide 53 ---
+Regulating Related Catabolic and Anabolic Pathways | Anabolic &amp; catabolic pathways | involving the | same compounds | are | not the same | . | Some steps | may be | common to both | Others | must be | different | - to ensure that each pathway is spontaneous. | This also | allows regulation | mechanisms to turn | one pathway on | and the other off.
+
+--- Slide 54 ---
+Modes Of Enzymes Regulation | Alteration in membrane permeability. | Conversion of Inactive to Active form. | Stimulation of mRNA translation. | Induction of new mRNA formation. | Repression of mRNA formation.
+
+--- Slide 55 ---
+Abnormal Metabolism Is Due To: | Nutritional Deficiencies | Enzyme Defects | Hormonal Defects | Drug and Toxin Interactions
+
+--- Slide 56 ---
+Normal Enzyme | and | Hormonal | activities gives | normal metabolism | and health to plants. | Defect in Enzymes | and | Hormones | derange the normal metabolism | .
+
+--- Slide 57 ---
+Inborn Error Of Metabolism | Congenital deficiency | of any single | Enzyme | of a metabolic pathway leads to | Inborn Errors of Metabolism.
+
+--- Slide 58 ---
+Enzyme Deficiency of a Metabolic Pathway | Blocks | the | metabolic reaction. | Blocks | the | metabolic pathway. | Accumulates | and | excretes | intermediate product | of the pathway. | No formation | of the | end product | of the pathway. | Affects | other | interrelated | metabolic | pathways.
+
+--- Slide 59 ---
+Methods Used to Study Metabolism | Metabolic Reactions/Metabolic Pathways were studied : | Using whole organism/Cellular fractions | Using Metabolic Probes. | Using Radioisotopes | .
+
+--- Slide 60 ---
+Plant Constituents | Carbohydrates | Monosaccharides - simple carbohydrates (pentose | C | 5 | , 			      hexose | C | 6 | ) | Disaccharides – maltose ( | glu-glu | ), sucrose ( | glu-fru | ) | C | 12 | Olygosaccharides | -1-10 | monosacchrides | lined together | Polysaccharides – starch (poly | glu | ), cellulose, 					    hemicellulose, insulin, etc. | Lipids ( | fats, phospholipids, waxes | ) | Proteins | (structural, soluble) | Aromatic Compounds | (Vanillin, flavonoids) | Terpenoids | and Steroids | Non-Protein Nitrogen Compounds | (DNA, RNA, Bases) | Vitamins (Vitamin C, Thiamin B | 1 | )

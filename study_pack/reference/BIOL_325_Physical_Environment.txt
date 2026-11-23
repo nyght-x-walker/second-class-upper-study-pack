@@ -1,0 +1,653 @@
+       BIOL 325 Principles of Ecology II
+
+
+                             Bismark Ofosu-Bamfo, PhD
+                         Department of Biological Sciences
+            University of Energy and Natural Resources, Sunyani, Ghana
+
+
+
+11/2/2026                           B. Ofosu-Bamfo                       1
+    Course outline
+Learning outcomes
+• Students will gain understanding into the physical
+  environment and how it shapes the major biomes of the
+  world.
+• Students will be able to identify and differentiate major
+  biomes of the world as well as West African ecological zones.
+• Students will also appreciate the flow of energy within
+  ecosystems through feeding and decomposition interactions.
+
+
+
+
+    11/2/2026                      B. Ofosu-Bamfo                 2
+   Course outline
+Course objectives
+• Understand the physical environment within which
+  ecosystems are situated, forming major biomes of the
+  world.
+
+• Gain knowledge of the cycling of energy and matter within
+  biotic and abiotic components of the ecosystem,
+  establishing implications of energy and material cycling on
+  global change and human and urban ecology.
+
+
+
+
+   11/2/2026                      B. Ofosu-Bamfo                3
+  Course outline
+Course content
+• Unit 1: The physical environment
+• Unit 2: Major biomes of the world
+• Unit 3: West African Vegetation Profile
+• Unit 4: Trophic interactions, Nutrient cycling and
+  decomposition
+• Unit 5: Biogeochemical cycles
+• Unit 6: Global Climate change
+• Unit 7: Urban and human ecology
+
+
+   11/2/2026                       B. Ofosu-Bamfo      4
+ Course outline
+Reading Materials
+• Smith, R. L., Smith, T. M., Hickman, G. C., & Hickman, S. M. (1998). Elements of
+  ecology (No. 577 S6E5 1998). Menlo Parie, CA: Benjamin Cummings.
+• Miller, G. T., & Spoolman, S. (2014). Essentials of ecology. Cengage Learning.
+• Clarke, R. (2009). Essentials of Ecology, Colin R. Townsend, Michael Begon,
+  John L. Harper, Blackwell Science, Oxford (2008), 510+ xii pages. ISBN
+  9781405156585 (paperback). Price£ 29.99.
+• Roeder, M., Dossa, G. G. O., Cornelissen, J. H. C., Yang, X., Nakamura, A., and
+  Tomlinson, K. W. (2022). Liana litter decomposes faster than tree litter in a
+  multispecies and multisite experiment. Journal of Ecology 110, 2433–2447. doi:
+  10.1111/1365-2745.13960
+• Bruy, D., Ibanez, T., Munzinger, J., & Isnard, S. (2017). Abundance, richness and
+  composition of lianas in forest communities along an elevation gradient in New
+  Caledonia. Plant ecology & diversity, 10(5-6), 469-481.
+ 11/2/2026                           B. Ofosu-Bamfo                             5
+            Assessment (100%)
+ • Mid semester examination – (20%)
+ • Assignments/Quiz sessions (20% of CA)
+ • End of semester exam (60%)
+
+ • Attendance is compulsory to sit for mid semester and
+   end of semester exam.
+
+
+
+
+11/2/2026                                                 6
+Unit 1: The physical environment
+Climate
+• What is the difference between climate and weather?
+• Weather is the combination of temperature, humidity,
+  precipitation, wind, cloudiness, and other atmospheric
+  conditions occurring at a specific place and time.
+
+• Climate is the long-term average pattern of weather and may
+  be local, regional or global.
+
+• The nature of terrestrial ecosystems and their dominant plants
+  is a reflection of prevailing climatic conditions.
+    11/2/2026                      B. Ofosu-Bamfo                  7
+Unit 1: The physical environment
+
+
+
+
+Gradient of vegetation from L-R (a) decreasing mean annual
+   rainfall and (b) decreasing mean annual temperature
+  11/2/2026                     B. Ofosu-Bamfo               8
+Unit 1: The physical environment
+
+
+Solar radiation
+• All objects emit radiant energy,
+  typically across a wide range of
+  wavelengths depending on the
+  temperature of the object.
+
+• The hotter the object the shorter the
+  wavelength of energy it emits.
+
+
+
+   11/2/2026                       B. Ofosu-Bamfo   9
+Unit 1: The physical environment
+• A very hot surface such as that of the Sun (~5800° C) gives
+  off primarily shortwave radiation.
+
+• In contrast, cooler objects such as Earth’s surface (average
+  temperature of 15°C) emit radiation of longer wavelengths
+  or longwave radiation.
+
+• Of the solar radiation that reaches the top of Earth’s
+  atmosphere, only 51 percent makes it to the surface.
+
+
+
+
+    11/2/2026                      B. Ofosu-Bamfo                10
+Unit 1: The physical environment
+ What happens to all the incoming energy?
+• Assuming 100 units of solar radiation from the sun reaches
+  the earth’s outer surface.
+
+• The clouds and atmosphere would reflect and scatter 26
+  units. The earths surface reflects 4 units. Thus, a total of 30
+  units is reflected into space.
+
+• The atmosphere and clouds in addition absorb 19 units. The
+  remaining 51 units reach the earth’s surface.
+
+
+
+    11/2/2026                        B. Ofosu-Bamfo                 11
+Unit 1: The physical environment
+• 23 units of the 51 units that reaches the earth surface are
+  used to evaporate water and 7 units are used to warm air.
+
+• The remaining 21 units are absorbed by the landmasses and
+  oceans.
+
+• Meanwhile, landmasses and oceans themselves emit
+  longwave radiations that exceed 21 units, up to the tune of
+  about 117 units. Only about 6 units of this radiation escapes
+  into space.
+
+
+
+    11/2/2026                      B. Ofosu-Bamfo                 12
+Unit 1: The physical environment
+• The remaining (111 units) is absorbed by the clouds, water
+  vapour and CO2 in the atmosphere.
+
+• Much of this energy (96 units) absorbed by the clouds is
+  emitted back to the earth. This is what creates the
+  greenhouse effect.
+
+• In effect, the energy lost at Earth’s surface (30 units + 117
+  units = 147 units) is exactly balanced by the energy gained
+  (51 units + 96 units = 147 units). The radiation budget of
+  Earth is in balance.
+
+
+     11/2/2026                     B. Ofosu-Bamfo                 13
+Unit 1: The physical environment
+
+
+
+
+   11/2/2026              B. Ofosu-Bamfo   14
+Unit 1: The physical environment
+• Solar radiation emitted by the sun that reaches the earth
+  covers a wide spectrum of wavelengths.
+
+• Out of these, 400 to 700 nm make up visible light and is
+  collectively known as Photosynthetically Active Radiation
+  (PAR).
+
+
+
+
+    11/2/2026                   B. Ofosu-Bamfo                15
+Unit 1: The physical environment
+What gives rise to seasons on earth?
+• Rotation on it’s axis, revolution about the sun? Earth’s axis of
+  spin is not perpendicular to the ecliptic but tilted at an angle
+  of 23.5°
+
+• The amount of solar radiation the earth receives at any point
+  varies with latitude. At higher latitudes, radiation hits the
+  earth at steeper angles. It travels through deeper layer of air,
+  encounters more particles and is reflected back into space.
+
+
+
+
+     11/2/2026                       B. Ofosu-Bamfo                  16
+Unit 1: The physical environment
+
+
+
+
+   11/2/2026              B. Ofosu-Bamfo   17
+Unit 1: The physical environment
+What accounts for seasonal variation on earth?
+• The earth’s orbit is not perpendicular to the ecliptic (the
+  plane about the sun in which the earth should travel).
+
+This is responsible for the seasonal variations in temperature
+and day length.
+
+• At the vernal equinox (approximately March 21) and
+  autumnal equinox (approximately September 22), every
+  place on earth receives 12 hours of day and 12 hours of
+  night.
+
+
+    11/2/2026                      B. Ofosu-Bamfo                18
+Unit 1: The physical environment
+• At the summer solstice (approximately June 22) in
+  the Northern Hemisphere, solar rays fall directly
+  on the Tropic of Cancer. This is when days are
+  longest (summer).
+
+• In contrast, the Southern Hemisphere experiences
+  winter at this time.
+
+• At winter solstice (about December 22) in the
+  Northern Hemisphere, solar rays fall directly on
+  the Tropic of Capricorn.
+   11/2/2026                B. Ofosu-Bamfo            19
+Unit 1: The physical environment
+
+
+
+
+   11/2/2026              B. Ofosu-Bamfo   20
+Unit 1: The physical environment
+Temperature pattern
+• Air temperature decreases
+  as one moves farther from
+  Earth’s surface. At low
+  altitude, air pressure and air
+  density are both high.
+• This increases activity and
+  movement of air, thus
+  temperature.
+• At higher altitude, the
+  inverse is the case.
+   11/2/2026                   B. Ofosu-Bamfo   21
+11/2/2026   B. Ofosu-Bamfo   22
+11/2/2026   B. Ofosu-Bamfo   23
+Unit 1: The physical environment
+Air mass circulation
+• The atmosphere represents a blanket of air that surrounds the
+  earth. This blanket of air is not static.
+• It’s movement is driven by rising and sinking air masses and
+  the rotation of earth on it’s axis.
+
+• Warm air rises because it is less dense. In the equatorial
+  region, air is heated and it rises to the top of the troposphere
+  (zone of low pressure).
+• Further warming and rising of air beneath this zone forces the
+  rising air mass to spread northward and southward to the
+  poles.
+
+    11/2/2026                       B. Ofosu-Bamfo                   24
+Unit 1: The physical environment
+• As this air moves towards the poles, they become cool
+  and dense and begin to sink. Sinking air raises air pressure
+  (high pressure zone).
+
+• The cool heavier air is thus driven to replace the warm air
+  rising at the equator. This is the pattern of air circulation.
+
+
+
+
+    11/2/2026                        B. Ofosu-Bamfo                25
+Unit 1: The physical environment
+
+
+
+
+   11/2/2026              B. Ofosu-Bamfo   26
+Unit 1: The physical environment
+• Air mass circulation from the equator to the poles is
+  influenced by the Coriolis effect.
+
+• It creates a series of belts of prevailing winds, named for
+  the direction they come from.
+
+• Air heated in the equatorial zone rises upward, creating a
+  low-pressure zone near the surface. This upward flow of
+  air is balanced by a flow of air from the north and south
+  toward the equator.
+
+
+
+   11/2/2026                      B. Ofosu-Bamfo                27
+Unit 1: The physical environment
+• As the warm air mass rises it begins to spread, diverging
+  northward and southward toward the North and South Poles,
+  cooling as it goes.
+
+• In the Northern Hemisphere, the Coriolis effect forces air in
+  an easterly direction, slowing its progress north. At about
+  30° north latitude, the now cool air sinks.
+
+• The descending air forms a semipermanent high-pressure
+  belt at the surface and encircling Earth. This air cools, splits
+  into two currents, one flowing northward and the other
+  returning to the equator as northeast trade winds. Similar but
+  opposite flow in the southern hemisphere creates the
+  southeast trade winds.
+     11/2/2026                       B. Ofosu-Bamfo                  28
+Unit 1: The physical environment
+• How does temperature influence moisture content of air?
+
+• Energy is absorbed or released when matter changes from
+  one state to another. This energy released (per gram) is
+  known as latent heat.
+
+• When water changes from liquid to gas, it absorbs energy
+  (required to break its bonds). Energy is released when it
+  changes from gas to liquid.
+
+
+
+
+    11/2/2026                     B. Ofosu-Bamfo              29
+ Unit 1: The physical environment
+• When water comes into contact with air, water molecules are
+  exchanged. When the rate of water molecules evaporated
+  equals the rate of condensation, air is said to be saturated.
+
+• At any given temperature, there is an amount of water
+  molecules that air can hold. When temperature increases, the
+  capacity of air to hold more water molecules increases.
+
+• The difference between what it holds and what it can hold is
+  known as saturation deficit.
+
+
+
+     11/2/2026                     B. Ofosu-Bamfo                 30
+Unit 1: The physical environment
+• High saturation deficit means high transpiration
+  and high evaporation. Water is precipitated out
+  when the temperature of air drops.
+
+• The amount of water in a given volume of air is its
+  absolute humidity. Relative humidity is the
+  amount of water vapour in the air expressed as a
+  percentage of its saturation vapour pressure
+  (water vapour capacity).
+
+
+   11/2/2026                 B. Ofosu-Bamfo             31
+Unit 1: The physical environment
+ Global Pattern of Precipitation
+• Precipitation is highest in the region of the equator, declining as
+  one moves north and south.
+
+
+
+
+    11/2/2026                         B. Ofosu-Bamfo                    32
+Unit 1: The physical environment
+
+
+
+
+   11/2/2026              B. Ofosu-Bamfo   33
+Unit 1: The physical environment
+Topography
+
+
+
+
+   11/2/2026              B. Ofosu-Bamfo   34
+Unit 1: The physical environment
+• Topography is the shape of a landscape that is created due to
+  various natural processes. The topography of Earth has been
+  shaped over time by wind, water, and the growth of geologic
+  features such as mountains.
+• Topography includes: landforms, textures or elevations.
+• Landforms are patterns made by the shape of the earth’s
+  surface and they can be anything from mountains to valleys
+  and plains.
+• Textures are also made by the shape of the earth’s surface as
+  it is often a mix between highlands and lowlands.
+• Elevations show how high something is above sea level on
+  earth.
+    11/2/2026                      B. Ofosu-Bamfo                 35
+Unit 1: The physical environment
+ Features of topography
+• Relief: mountains, caves, valleys, slopes, aspect,
+  depressions as defined by contours
+• Hydrography: lakes, rivers, streams, swamps, rapids, falls
+• Vegetation: wooded areas
+• Transportation: roads, trails, railways, bridges,
+  airports/airfields, seaplane anchorages
+• Culture: buildings, urban development, power transmission
+  line, pipelines, towers
+• Boundaries: international, provincial/territorial,
+  administrative, recreational, geographical
+• Toponymy: place names, water feature names, landform
+  names, boundary names
+   11/2/2026                      B. Ofosu-Bamfo               36
+Unit 1: The physical environment
+
+ What is soil?
+• Hans Jenny wrote, “Popularly, soil is the stratum below the
+  vegetation and above hard rock, but questions come quickly
+  to mind. Many soils are bare of plants, temporarily or
+  permanently, or they may be at the bottom of a pond growing
+  cattails. Soil may be shallow or deep, but how deep? Soil
+  may be stony, but surveyors (soil) exclude the larger stones.
+  Most analyses pertain to fine earth only. Some pretend that
+  soil in a flowerpot is not a soil, but soil material. It is
+  embarrassing not to be able to agree on what soil is. In this
+  soil scientists are not alone. Biologists cannot agree on a
+  definition of life and philosophers on philosophy.”
+
+    11/2/2026                      B. Ofosu-Bamfo                 37
+Unit 1: The physical environment
+• Soil may be defined as a natural product formed and
+  synthesized by the weathering of rocks and the action of
+  living organisms. Also a collection of natural bodies of earth,
+  composed of mineral and organic matter and capable of
+  supporting plant growth.
+
+• Soil is the medium for plant growth; the principal factor
+  controlling the fate of water in terrestrial environments;
+  nature’s recycling system, which breaks down the waste
+  products of plants and animals and transforms them into their
+  basic elements; habitat to a diversity of animal life, from
+  small mammals to countless forms of microbial life.
+
+    11/2/2026                       B. Ofosu-Bamfo                  38
+11/2/2026   B. Ofosu-Bamfo   39
+11/2/2026   B. Ofosu-Bamfo   40
+11/2/2026   B. Ofosu-Bamfo   41
+11/2/2026   B. Ofosu-Bamfo   42
+Unit 1: The physical environment
+ Soil formation
+• Weathering of rocks (mechanical destruction and chemical
+  modification).
+• Mechanical weathering results from the interaction of
+  several forces. When exposed to the combined action of
+  water, wind, and temperature, rock surfaces flake and peel
+  away.
+• Water seeps into crevices, freezes, expands, and cracks the
+  rock into smaller pieces.
+• Wind-borne particles, such as dust and sand, wear away at
+  the rock surface. Growing roots of trees split rock apart.
+
+
+   11/2/2026                      B. Ofosu-Bamfo                43
+Unit 1: The physical environment
+• Chemical weathering happens due to the presence of water,
+  oxygen, and acids resulting from the activities of soil
+  organisms and the continual addition of organic matter (dead
+  plant and animal tissues).
+• Rainwater falling on and filtering through this organic
+  matter and mineral soil sets up a chain of chemical reactions
+  that transform the composition of the original rocks and
+  minerals.
+
+• Five interdependent factors are important in soil formation:
+  parent material, climate, biotic factors, topography, and time.
+
+
+
+    11/2/2026                       B. Ofosu-Bamfo                  44
+Unit 1: The physical environment
+ Physical characterisitcs
+• Physical properties of soil include colour, texture, structure,
+  moisture and depth.
+
+• Colour can provide clues on physical and chemical propertis
+  of soil. Humus (organic matter) makes soil dark or black. Iron
+  oxides give soil yellowish brown to red colour. Manganese
+  oxides give soil purplish to black colour.
+
+
+
+
+    11/2/2026                        B. Ofosu-Bamfo                 45
+Unit 1: The physical environment
+• Soil texture is the proportion of diferent sized soil particles.
+  Texture is partly inherited from parent material and partly a
+  result of the soil-forming process.
+
+• Particles are classified on the basis of size into gravel, sand,
+  silt, and clay. Gravel consists of particles larger than 2.0 mm.
+
+• Soils are classified based on texture by defining the
+ proportion of sand, silt, and clay.
+
+
+
+
+    11/2/2026                        B. Ofosu-Bamfo                  46
+Unit 1: The physical environment
+ • Sand ranges from 0.05 to 2.0 mm, is easy to see, and feels
+   gritty.
+ • Silt consists of particles from 0.002 to 0.05 mm in diameter
+   that can scarcely be seen by the naked eye; it feels and looks
+   like flour.
+
+ • Clay particles are less than 0.002 mm, too small to be seen
+   under an ordinary microscope.
+ • Clay is important for water holding capacity of soils and
+   exchange of ions between soil and soil solution.
+
+
+
+    11/2/2026                      B. Ofosu-Bamfo                   47
+Unit 1: The physical environment
+• A soil’s texture is the percentage (by weight) of sand, silt,
+  and clay. Based on proportions of these components, soils
+  are divided into texture classes.
+
+• Soil texture affects pore space in the soil, which plays a
+  major role in the movement of air and water in the soil and
+  the penetration by roots.
+
+• Soil texture affects Water holding capacity, Soil
+  permeability, Soil workability and Ability of plants to grow.
+
+
+
+   11/2/2026                        B. Ofosu-Bamfo                48
+Unit 1: The physical environment
+• Twelve basic textural classes exist within the Soil Textural
+  Triangle.
+
+• Silt, Silt loam, Silty clay loam, Loam (contains some of all 3
+  soil particle sizes), Sandy clay loam, Loamy sand, Sand,
+  Sandy loam, Sandy clay, Clay loam, Silty clay, Clay.
+
+• Clay side of the triangle (left) reads from left to right. Silt
+  side (right) reads from upper right corner to bottom left and
+  the sand side (base) reads from bottom right to upper left
+  corner.
+
+
+    11/2/2026                        B. Ofosu-Bamfo                 49
+• What is the texture classification for a soil with 60 percent silt, 35
+  percent clay, and 5 percent sand?
+• What is the texture classification for a soil with 60 percent clay
+   11/2/2026                     B. Ofosu-Bamfo                     50
+  and 40 percent silt?
+Unit 1: The physical environment
+
+
+
+
+   11/2/2026              B. Ofosu-Bamfo   51
+Unit 1: The physical environment
+• Soil depth varies across the landscape, depending on slope,
+  weathering, parent materials, and vegetation.
+
+• Soil in grasslands are deep due to the organic matter added to
+  the soil from the deep, fibrous root systems of the grass. By
+  contrast, tree leaves falling on the forest floor are the
+  principal source of organic matter in forests making soils in
+  forests shallow.
+
+• What do you expect for soil in valleys, slopes and ridge top?
+
+
+
+    11/2/2026                      B. Ofosu-Bamfo                  52
+Unit 1: The physical environment
+ Horizontal layers of soil
+• Soil profile: a sequence of horizontal layersof soil formed
+  from accumulation of organic matter near the surface and
+  movement of materials downward.
+• Layers of soil profile have different physical, chemical and
+  biological characeristics.
+• This pattern of horizontal layering, or horizons, is easily
+  visible in recent excavations of soil.
+• The simplest general representation of a soil profile consists
+  of four horizons: O, A, B, and C.
+
+
+
+    11/2/2026                       B. Ofosu-Bamfo                 53
+11/2/2026   B. Ofosu-Bamfo   54
+Unit 1: The physical environment
+ Moisture holding capacity of soil
+• Water moves into soils by infiltration. The size of soil pore
+  spaces and soil particles determine the levels of infiltration.
+
+• Soil is saturated when there is more water than the pore
+  space can hold. Soil is said to be at field capacity (FC) when
+  water in pore spaces is held by internal capillary forces.
+
+• Water held by capillary forces is known as capillary water.
+  Soil is at wilting point (WP) when its water content declines
+  beyond the reach of plants.
+
+• Available water capacity = FC-WP
+    11/2/2026                        B. Ofosu-Bamfo                 55
+11/2/2026   B. Ofosu-Bamfo   56
+Unit 1: The physical environment
+ Ion exchange capacity of soils
+• Chemicals is spoil water are reffered to as exchangeable
+  nutrients. They are usually in solution ready for uptake and
+  use by plants. They are held in soil by the simple attraction
+  of oppositely charged particles and are constantly
+  interchanging with the soil solution.
+
+• Chemical elements and compounds exist in the soil solution
+  both as cations, such as calcium (Ca2+), magnesium (Mg2+),
+  and ammonium (NH4+), and as anions, such as nitrate (NO3-
+  ) and sulfate (SO42-).
+
+
+
+    11/2/2026                       B. Ofosu-Bamfo                57
+Unit 1: The physical environment
+• The ability of these ions in soil solution to bind to the surface
+  of soil particles depends on the number of negatively or
+  positively charged sites within the soil. The total number of
+  charged sites on soil particles within a volume of soil is called
+  the ion exchange capacity.
+
+• Cation exchange capacity (CEC) refers to the total number of
+  negatively charged sites of clay and organic matter in soil.
+  CEC is a basic measure of soil quality. It prevents leaching of
+  positvely charged nutrients.
+
+
+
+
+    11/2/2026                        B. Ofosu-Bamfo                   58
+

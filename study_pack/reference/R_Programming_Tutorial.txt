@@ -1,0 +1,660 @@
+    Comprehensive R Programming Tutorial
+    From Core Data Structures & Tidyverse Wrangling to Parametric & Non-Parametric
+    Statistical Analysis
+
+
+
+
+1. Getting Started: Environment, Packages & Help
+
+Before diving into data structures and analysis, it is essential to know how to manage your
+workspace, install external tools, and find documentation.
+
+Checking and Setting the Working Directory
+Your working directory is the default folder where R looks for files to read and saves files you
+export.
+
+  # Check your current working directory
+  getwd()
+
+  # Set a new working directory (use forward slashes / even on Windows)
+  setwd("C:/Users/YourName/Documents/R_Projects")
+
+
+
+Installing and Loading Packages
+R comes with base functions, but most data science workflows rely on external packages (such as
+the tidyverse ecosystem).
+
+  # Install packages from CRAN (only needs to be done once per machine)
+  install.packages("tidyverse")
+  install.packages("ggpubr")
+  install.packages("readxl") # For Excel files
+  install.packages("haven") # For SPSS, Stata, and SAS files
+
+  # Load/call a package library into your current R session (must be done every new session)
+  library(tidyverse)
+  library(ggpubr)
+
+
+
+Using Help in R
+Whenever you are unsure about what a function does or what arguments it accepts, use R's built-
+in documentation:
+
+  # Get documentation for a specific function
+  ?read_csv
+  help(mean)
+
+  # Search for help topics containing a keyword
+  ??ggplot
+
+  # View practical code examples of a function in action
+  example(sample)
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                               Page 1 of 12
+2. Basic Operators & Variables
+
+Comparison and Logical Operators
+Comparison operators evaluate relationships and return logical values ( TRUE or FALSE ):
+
+ • < (Less than), > (Greater than)
+ • <= (Less than or equal to), >= (Greater than or equal to)
+ • == (Equal to), != (Not equal to)
+ • ! (Logical NOT — negates a logical value)
+ • & (Logical AND), | (Logical OR)
+
+  # Negating a logical vector
+  vec3 <- c(TRUE, FALSE, TRUE)
+  !vec3
+  # Output: FALSE, TRUE, FALSE
+
+
+
+Variables
+Use the assignment operator <- to store values in variables. You can also assign metadata
+names to variables.
+
+  # Assign 1 to variable 'a'
+  a <- 1
+
+  # Variables can have names
+  names(a) <- "Hello world!"
+
+
+
+
+3. Core Data Structures in R
+
+Vectors
+Vectors are one-dimensional arrays that hold elements of the same data type (numeric,
+character, or logical).
+
+  # Creating vectors with c() (combine)
+  num_vec <- c(1, 2, 3)
+  char_vec <- c("Hello", "world", "!")
+  log_vec <- c(TRUE, FALSE, FALSE)
+
+  # Shorthand for sequential numeric vectors
+  num_vec <- 1:10
+
+  # Naming vector elements
+  my_vec <- c(1, 2, 3)
+  names(my_vec) <- c("Hello", "world", "!")
+
+  # Accessing vector elements by index (R indexing starts at 1)
+  my_vec[1]      # Returns the first element
+  my_vec[1:2]    # Returns the first and second elements
+
+  # Accessing vector elements by name
+  my_vec["Hello"]
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                            Page 2 of 12
+Factors
+Factors are used to store categorical data and represent distinct groups (levels).
+
+  # Create a factor
+  my_fct <- factor(x = c(90, 80, 70, 60, 0))
+
+  # Factors can be named
+  names(my_fct) <- c("A", "B", "C", "D", "E")
+
+  # Accessed the same way as vectors
+  my_fct[1]
+  my_fct["D"]
+
+  # Re-leveling (reordering the levels of a factor)
+  levels(my_fct) <- c(90, 80, 70, 60, 0)
+
+
+
+Matrices
+Matrices are two-dimensional rectangular datasets containing elements of the same data type.
+
+  # Create a matrix (fills by column by default)
+  my_mat <- matrix(1:10, nrow = 2, ncol = 5)
+
+  # Fill by row instead
+  my_mat <- matrix(1:10, nrow = 2, ncol = 5, byrow = TRUE)
+
+  # Assign column and row names
+  colnames(my_mat) <- c("col 1", "col 2", "col 3", "col 4", "col 5")
+  rownames(my_mat) <- c("Row 1", "Row 2")
+
+  # Access elements using [row, column] indices or names
+  my_mat[2, 3]             # Row 2, column 3
+  my_mat["Row 2", "col 3"] # Same output using names
+
+
+
+Data Frames
+Data frames are tables where each column can contain a different data type (similar to an Excel
+spreadsheet).
+
+  # Create a data frame
+  my_df <- data.frame(
+    "Numerics" = c(1, 2, 3),
+    "Characters" = c("Hello", "world", "!"),
+    "Logicals" = c(TRUE, FALSE, FALSE)
+  )
+
+  # Set row and column names
+  rownames(my_df) <- c("Row_1", "Row_2", "Row_3")
+  colnames(my_df) <- c("col_1", "col_2", "col_3")
+
+  # Access data frames
+  my_df["Row_1", "col_2"] # By row and column name
+  my_df$col_1             # Access entire column as a vector using $ notation
+  my_df$col_2[2]          # Column 2, row 2
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                          Page 3 of 12
+Lists
+Lists are flexible containers that can hold elements of different types and lengths (including
+vectors, matrices, and other lists).
+
+  # Create a list
+  my_list <- list(1, "a", TRUE, c(1, 2, 3))
+
+  # Name the elements in a list
+  names(my_list) <- c("Elem_1", "Elem_2", "Elem_3", "Elem_4")
+
+  # Access list elements
+  my_list[[2]]         # Double brackets return the underlying data ("a")
+  my_list[["Elem_3"]] # Access by name
+  my_list[[4]][3]      # Access the 3rd item inside the 4th list element
+  my_list$Elem_4       # Access using $ notation
+  my_list$Elem_4[3]    # 3rd item inside Elem_4
+
+
+
+
+4. Useful Built-in Functions & Operators
+
+  # The %in% operator (checks if an element belongs to a vector)
+  11 %in% 1:10 # Output: FALSE
+  5 %in% 1:10   # Output: TRUE
+  "Hello" %in% c("Hello", "world", "!") # Output: TRUE
+
+  # The which() function (returns the indices of TRUE values)
+  1:10 == 5          # Returns logical vector: F F F F T F F F F F
+  which(1:10 == 5)   # Returns index: 5
+
+  # The length() function
+  my_vec <- 1:5
+  length(my_vec)     # Gives the number of elements (5)
+
+  # The sample() function (random sampling)
+  my_vec <- 1:100
+  sample(my_vec, size = 10) # Get 10 random values from my_vec
+
+  # Summary statistics function family
+  my_nums <- c(5, 100, 20, 4, 1.5, 2.333)
+  max(my_nums)    # Returns maximum value (100)
+  min(my_nums)    # Returns minimum value (1.5)
+  mean(my_nums)   # Returns arithmetic mean
+  median(my_nums) # Returns median
+  sum(my_nums)    # Returns total sum
+  sd(my_nums)     # Returns standard deviation
+
+
+
+
+5. Control Flow: Conditionals & Loops
+
+Conditional Statements ( if , else if , else , switch )
+Conditionals execute code blocks only when specific criteria are met.
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                              Page 4 of 12
+  # if ... else if ... else
+  i <- 4
+  if (i > 5) {
+    print("i is greater than 5!")
+  } else if (i == 5) {
+    print("i is equal to 5!")
+  } else {
+    print("i is NOT greater than 5!")
+  }
+
+  # switch() statement (clean alternative to multiple else-if statements)
+  day_type <- "Saturday"
+  switch(day_type,
+    "Monday" = "Start of work week",
+    "Friday" = "End of work week",
+    "Saturday" = "Weekend!",
+    "Regular day"
+  )
+
+
+
+Loops ( for and while )
+Loops repeat a block of code multiple times.
+
+  days_of_week <- c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday",
+  "Sunday")
+
+  # For Loop Type I: Iterate directly over elements
+  for (day in days_of_week) {
+    print(day)
+  }
+
+  # For Loop Type II: Iterate over numeric indices
+  for (i in 1:length(days_of_week)) {
+    day <- days_of_week[i]
+    print(day)
+  }
+
+  # Combining Loops and if...else
+  for (day in days_of_week) {
+    if (day == "Saturday" || day == "Sunday") {
+      print(paste(day, "is the weekend!"))
+    } else {
+      print(paste(day, "is a weekday."))
+    }
+  }
+
+  # While Loop: Runs as long as the condition remains TRUE
+  x <- 5
+  while (x > 0) {
+    print(x)
+    x <- x - 1
+  }
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                           Page 5 of 12
+6. Writing Functions & The apply Family
+
+Custom Functions
+Functions encapsulate reusable code that takes inputs (arguments), processes them, and
+optionally returns an output.
+
+  # Function performing an action without return()
+  my_funct <- function(number) {
+    print("Your number is:")
+    print(number)
+  }
+  my_funct(100)
+
+  # Function returning an output
+  random_picker <- function(a_vector) {
+    result <- sample(a_vector, size = 1)
+    return(result)
+  }
+  random_picker(days_of_week)
+
+
+
+The apply Family (Vectorized Iteration)
+Instead of writing verbose for loops, R uses the apply family to apply functions across data
+structures efficiently.
+
+ • sapply() : Applies a function to a vector/list and simplifies the output into a vector.
+ • lapply() : Works just like sapply() , but always returns a list.
+ • apply() : Applies a function across rows ( MARGIN = 1 ), columns ( MARGIN = 2 ), or individual
+   cells ( MARGIN = 1:2 ) of a matrix or data frame.
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                                  Page 6 of 12
+  # sapply() returning a simplified vector
+  res_vec <- sapply(days_of_week, FUN = function(day) {
+     if (day == "Saturday") {
+       return("Party time! :)")
+     } else if (day == "Monday") {
+       return("I HATE Mondays! :(:(")
+     } else {
+       return("No parties today... :(")
+     }
+  })
+
+  # lapply() returning a named list
+  res_lst <- lapply(days_of_week, FUN = function(day) {
+     if (day == "Saturday") {
+       return("Party time! :)")
+     } else if (day == "Monday") {
+       return("I HATE Mondays! :(:(")
+     } else {
+       return("No parties today... :(")
+     }
+  })
+  names(res_lst) <- days_of_week
+
+  # apply() across rows, columns, and cells of a matrix
+  my_mat <- matrix(1:10, nrow = 2, ncol = 5)
+
+  apply(my_mat, MARGIN = 1, FUN = sum)        # Row sums
+  apply(my_mat, MARGIN = 2, FUN = sum)        # Column sums
+
+  # Apply custom logic across every individual cell (MARGIN = 1:2)
+  apply(my_mat, MARGIN = 1:2, FUN = function(number) {
+     if (number > 5) return(TRUE) else return(FALSE)
+  })
+
+
+
+
+7. Reading Different Data Files into R
+
+In a typical data analysis workflow, importing data is the first step. Use the appropriate package
+for your file format:
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                              Page 7 of 12
+  library(readr)      # Part of tidyverse (for flat text files)
+  library(readxl)     # For Excel spreadsheets
+  library(haven)      # For statistical software files
+
+  # 1. CSV (Comma-Separated Values) - local file or URL
+  df_csv <- read_csv("data/sample_data.csv")
+  tidy_titanic <- read_csv("https://gist.githubusercontent.com/.../titanic.csv")
+
+  # 2. TSV / Tab-Delimited Text Files
+  df_tsv <- read_tsv("data/sample_data.tsv")
+  # Or general delimited files (e.g., semicolon-separated)
+  df_delim <- read_delim("data/sample_data.txt", delim = ";")
+
+  # 3. Excel Files (.xlsx or .xls)
+  df_excel <- read_excel("data/spreadsheet.xlsx", sheet = 1) # Can also use sheet = "SheetName"
+
+  # 4. Statistical Software Files (via haven)
+  df_spss <- read_sav("data/survey.sav")       # SPSS
+  df_stata <- read_dta("data/dataset.dta")     # Stata
+  df_sas   <- read_sas("data/records.sas7bdat")# SAS
+
+  # 5. Native R Data Formats
+  saveRDS(my_df, "data/saved_object.rds")      # Save a single R object
+  loaded_df <- readRDS("data/saved_object.rds")# Read it back
+
+
+
+
+8. Data Wrangling & Visualization ( tidyverse )
+
+  Tidyverse Data Analysis Workflow:
+  Import ( readr , readxl , haven ) → Tidy ( tidyr ) → Transform ( dplyr ) ↔ Visualize ( ggplot2 ) /
+  Model ( broom ) → Communicate ( knitr , rmarkdown ).
+
+
+Data Manipulation with dplyr
+The pipe operator ( %>% or native |> ) passes the output of one function directly into the first
+argument of the next function, making code readable from top to bottom.
+
+  library(dplyr)
+
+  pct_surv <- tidy_titanic %>%
+    filter(Age > 12) %>%                      # Filter rows by condition
+    select(Survived, Sex) %>%                 # Keep only specific columns
+    group_by(Sex, Survived) %>%               # Group data for summary calculations
+    summarise(num_sex_survived = n()) %>%     # Count rows per group
+    mutate(pct_sex_survive = num_sex_survived / sum(num_sex_survived) * 100) %>% # Create new
+  column
+    filter(Survived == 1)                     # Keep only survivors
+
+
+
+Data Visualization with ggplot2
+ggplot2 builds plots step-by-step using the Grammar of Graphics layers: Data → Aesthetics
+→ Geometries → Facets → Statistics → Coordinates → Theme. Notice how ggplot2 uses the
++ sign to add layers together.
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                                Page 8 of 12
+  library(ggplot2)
+
+  # Step 1: Set the data layer
+  ggplot(data = pct_surv)
+
+  # Step 2: Set the aesthetics layer (mapping variables to axes)
+  ggplot(data = pct_surv, mapping = aes(x = Sex, y = num_sex_survived))
+
+  # Step 3: Add the geometry layer (bar chart using exact values via stat = "identity")
+  ggplot(data = pct_surv, mapping = aes(x = Sex, y = num_sex_survived)) +
+    geom_bar(stat = "identity")
+
+  # Step 4: Switch aesthetics to plot percentages and refine theme/labels
+  ggplot(data = pct_surv, mapping = aes(x = Sex, y = pct_sex_survive, fill = Sex)) +
+    geom_bar(stat = "identity") +
+    labs(
+      title = "Survival Percentage by Sex (Age > 12)",
+      x = "Sex",
+      y = "Survival Percentage (%)"
+    ) +
+    theme_minimal()
+
+
+
+
+9. Statistical Analysis in R
+
+Before running statistical tests, summarize your data and check core assumptions (normality and
+equal variance). Those checks determine whether you should use parametric tests (means and
+SDs) or non-parametric alternatives (medians and ranks). The code below uses R's built-in
+iris and mtcars datasets so every block runs out of the box.
+
+
+A. Basic Summary Statistics
+
+  library(dplyr)
+
+  # Quick five-number summary + mean for every column in a dataset
+  summary(iris)
+
+  # Detailed parametric & non-parametric summary grouped by category
+  iris %>%
+    group_by(Species) %>%
+    summarise(
+      n = n(),
+      Mean = mean(Sepal.Length, na.rm = TRUE),
+      SD = sd(Sepal.Length, na.rm = TRUE),
+      Median = median(Sepal.Length, na.rm = TRUE),
+      IQR = IQR(Sepal.Length, na.rm = TRUE),
+      Min = min(Sepal.Length, na.rm = TRUE),
+      Max = max(Sepal.Length, na.rm = TRUE)
+    )
+
+
+
+B. Checking Assumptions: Normality & Homogeneity of Variance
+
+1. Checking for Normality
+ • Hypotheses: H0: Data is normally distributed vs. H1: Data is not normally distributed.
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                            Page 9 of 12
+ • Decision Rule: If p > 0.05, data does not significantly deviate from normality (use
+   parametric tests). If p ≤ 0.05, data is non-normal (use non-parametric tests).
+
+  # 1. Shapiro-Wilk Test (best for sample sizes n < 5000)
+  shapiro.test(iris$Sepal.Length)
+
+  # Check normality separately within each group
+  iris %>%
+    group_by(Species) %>%
+    summarise(shapiro_p = shapiro.test(Sepal.Length)$p.value)
+
+  # 2. Visual Checks: Histogram and Q-Q Plot
+  hist(iris$Sepal.Length, main = "Histogram of Sepal Length", col = "lightblue")
+
+  qqnorm(iris$Sepal.Length)
+  qqline(iris$Sepal.Length, col = "red", lwd = 2) # Points should hug the red line
+
+
+2. Checking for Homogeneity of Variance (Equal Variances)
+ • Hypotheses: H0: Variances are equal across groups vs. H1: Variances are significantly
+   different.
+ • Decision Rule: If p > 0.05, variances are equal.
+
+  # 1. Bartlett's Test (sensitive to non-normality; use only if data is normal)
+  bartlett.test(Sepal.Length ~ Species, data = iris)
+
+  # 2. Levene's Test (robust against non-normality; requires 'car' package)
+  # install.packages("car")
+  library(car)
+  leveneTest(Sepal.Length ~ Species, data = iris)
+
+  # 3. Fligner-Killeen Test (built-in non-parametric test for equal variance)
+  fligner.test(Sepal.Length ~ Species, data = iris)
+
+
+
+C. Quick Reference: Parametric vs. Non-Parametric Tests
+
+                                     Parametric Test (Normal     Non-Parametric Alternative
+ Research Goal
+                                     Data)                       (Skewed / Ordinal Data)
+
+ Relationship between 2              Pearson Correlation         Spearman Rank Correlation
+ continuous variables                 cor.test(..., method =     cor.test(..., method =
+                                     "pearson")                  "spearman")
+
+ Compare 2 independent               Independent Two-Sample t-   Mann-Whitney U / Wilcoxon Rank-Sum
+ groups                              test                        wilcox.test(y ~ x)
+                                      t.test(y ~ x)
+
+ Compare 2 paired/matched            Paired t-test               Wilcoxon Signed-Rank
+ groups                               t.test(x1, x2, paired =    wilcox.test(x1, x2, paired =
+                                     TRUE)                       TRUE)
+
+ Compare 3+ independent              One-Way ANOVA               Kruskal-Wallis Test
+ groups                               aov(y ~ x)                 kruskal.test(y ~ x)
+
+ Compare 3+ repeated/                Repeated Measures ANOVA     Friedman Test
+ paired groups                        aov(...)                   friedman.test(...)
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                                  Page 10 of 12
+D. Correlation (Continuous vs. Continuous)
+
+  # 1. Parametric: Pearson Correlation (assumes linear relationship & normality)
+  cor.test(mtcars$wt, mtcars$mpg, method = "pearson")
+
+  # 2. Non-Parametric: Spearman Rank Correlation (robust to outliers & skewness)
+  cor.test(mtcars$wt, mtcars$mpg, method = "spearman")
+
+  # Generate a correlation matrix across multiple numeric columns
+  cor(mtcars[, c("mpg", "wt", "hp", "disp")], method = "pearson")
+
+
+
+E. Regression Modeling
+
+1. Simple & Multiple Linear Regression (Parametric)
+Predicts a continuous outcome (Y) from one or more predictors (X).
+
+  # Fit the linear model: predict Miles Per Gallon (mpg) from Weight (wt) and Horsepower (hp)
+  lm_model <- lm(mpg ~ wt + hp, data = mtcars)
+
+  # View coefficients, R-squared, and p-values
+  summary(lm_model)
+
+  # Check regression diagnostic plots (residuals vs fitted, Q-Q plot of residuals)
+  par(mfrow = c(2, 2))
+  plot(lm_model)
+  par(mfrow = c(1, 1)) # Reset plotting layout
+
+
+2. Non-Parametric Regression Alternative (Quantile Regression)
+When residuals violate normality or have heavy outliers, model the median instead of the mean
+using Quantile Regression ( quantreg package).
+
+  # install.packages("quantreg")
+  library(quantreg)
+
+  # tau = 0.5 models the 50th percentile (median)
+  rq_model <- rq(mpg ~ wt + hp, tau = 0.5, data = mtcars)
+  summary(rq_model)
+
+
+
+F. Categorical Data: Chi-Square & Fisher's Exact Test
+Used to test whether two categorical variables are independent or associated.
+
+  # Create a 2x2 contingency table (Engine shape 'vs' vs. Transmission 'am')
+  cont_table <- table(Engine = mtcars$vs, Transmission = mtcars$am)
+  print(cont_table)
+
+  # 1. Chi-Square Test of Independence (use when expected cell counts are >= 5)
+  chisq_res <- chisq.test(cont_table)
+  print(chisq_res)
+
+  # Always inspect expected counts to verify the Chi-Square assumption!
+  chisq_res$expected
+
+  # 2. Fisher's Exact Test (use when ANY expected cell count is < 5)
+  fisher.test(cont_table)
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                          Page 11 of 12
+G. Comparing Groups: ANOVA, t-test & Non-Parametric Alternatives
+
+  # --- 1. Comparing 3+ Groups: One-Way ANOVA (Parametric) ---
+  anova_model <- aov(Sepal.Length ~ Species, data = iris)
+  summary(anova_model)
+
+  # If ANOVA p < 0.05, run Tukey's HSD post-hoc test to see WHICH pairs differ
+  TukeyHSD(anova_model)
+
+  # If variances are UNEQUAL (Levene's p < 0.05), use Welch's ANOVA:
+  oneway.test(Sepal.Length ~ Species, data = iris, var.equal = FALSE)
+
+  # --- 2. Comparing 3+ Groups: Kruskal-Wallis (Non-Parametric) ---
+  kruskal.test(Sepal.Length ~ Species, data = iris)
+
+  # If Kruskal-Wallis p < 0.05, run Pairwise Wilcoxon post-hoc with p-value adjustment
+  pairwise.wilcox.test(iris$Sepal.Length, iris$Species, p.adjust.method = "BH")
+
+  # --- 3. Comparing 2 Groups: t-test vs. Mann-Whitney U ---
+  two_species <- iris %>% filter(Species %in% c("setosa", "versicolor"))
+
+  t.test(Sepal.Length ~ Species, data = two_species)      # Parametric
+  wilcox.test(Sepal.Length ~ Species, data = two_species) # Non-Parametric
+
+
+
+
+Comprehensive R Programming & Statistical Analysis Tutorial                          Page 12 of 12
+

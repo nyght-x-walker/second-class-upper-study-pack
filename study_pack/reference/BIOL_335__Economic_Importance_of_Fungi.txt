@@ -1,0 +1,537 @@
+                         BIOL 335: Lecture 2
+
+
+
+
+Abdul-Rahman Adamu Bukari & Prince Nyarko
+Department of Biological Sciences
+COURSE OBJECTIVES
+
+Learning Outcomes
+   •   Explain the economic and ecological importance of fungi.
+
+   •   Describe the beneficial applications of fungi in food production, medicine, agriculture, and biotechnology, using specific
+       examples.
+
+   •   Discuss the economic and public health impacts of fungal diseases in humans, animals, and plants.
+
+   •   Evaluate the contributions of fungi to global food security, environmental sustainability, and ecosystem functioning.
+
+   •   Recognize the emerging opportunities and challenges associated with fungi, including biocontrol, antifungal resistance, and
+       neglected fungal diseases.
+
+
+   Guiding Question: When does fungal activity generate economic value, and when does it impose a societal cost?
+
+
+
+
+                                                                                                                                     1
+ECONOMIC FRAMEWORK
+
+How Fungi Shape National Economies
+
+
+
+
+  Direct Market Value                          Ecosystem Services                          Economic Losses
+  Edible mushrooms, fermented foods,           Lignocellulose decomposition and            Pre-harvest blight, postharvest spoilage,
+  enzymes, pharmaceuticals.                    mycorrhizal nutrient exchange.              mycotoxins, mycoses.
+
+
+
+
+           Net Economic Impact = (Market Products + Ecosystem Services) − (Yield Losses + Prevention + Healthcare Costs)
+
+
+
+
+                                                                                                                                       2
+ECONOMIC FRAMEWORK
+
+
+
+
+                     3
+PHYSIOLOGICAL MECHANISMS
+
+Biology Behind Fungal Economic Value
+
+
+
+Polarised Hyphal Growth: Apical tip extension penetrates solid wood, soil, and grain
+matrices.
+
+Absorptive Heterotrophy: Extracellular amylases, cellulases, proteases, and ligninases
+digest polymers externally.
+
+Secondary Metabolism: Produces high-value organic acids, antibiotics, statins, and
+mycotoxins.
+
+Dual Economic Edge: Identical enzymatic digestion recycles forest litter yet spoils stored
+crops.
+
+
+
+
+                                                                                             4
+NUTRIENT CYCLING
+
+Saprotrophic Decomposition and Soil Fertility
+
+
+
+
+                                         Brown-Rot Fungi                           Ghanaian Agro-Systems
+   White-Rot Fungi
+                                         Selectively depolymerize cellulose and    Mineralize cocoa leaf litter, maize stover,
+   Secrete peroxidases and laccases to
+                                         hemicellulose, leaving modified lignin.   and spent mushroom substrate.
+   degrade both lignin and cellulose.
+
+
+
+
+                                                                                                                                 5
+PLANT–FUNGAL MUTUALISM
+
+Mycorrhizae: Underground Nutrient Trading
+
+
+
+                            Host Plant (Photosynthates / Sugars) ⇄ Fungus (Phosphorus, Zinc & Water)
+
+
+
+                         Arbuscular Mycorrhizae (Glomeromycota): Form intracellular arbuscules in ~80% of crops
+                         including maize and cassava.
+
+                         Ectomycorrhizae (Basidiomycota/Ascomycota): Form a hyphal mantle and Hartig net around
+                         timber tree roots.
+
+                         Agronomic Caveat: Commercial inoculants require field validation; high soil phosphorus
+                         suppresses colonization.
+
+
+
+
+                                                                                                                  6
+MODULE 02
+
+
+Edible Mushrooms & Food Fermentation
+
+
+
+
+                                       7
+FUNGAL HORTICULTURE
+
+
+
+
+                      8
+FUNGAL HORTICULTURE
+
+
+
+
+                      9
+FUNGAL HORTICULTURE
+
+
+
+
+                      10
+FUNGAL HORTICULTURE
+
+Edible Mushrooms: Nutrition and Value Chains
+
+
+
+Major Cultivated Taxa: Pleurotus ostreatus (oyster), Lentinula edodes (shiitake), and
+Agaricus bisporus (button).
+
+Nutritional Profile: Rich in β-glucan dietary fiber, B-vitamins, potassium, and digestible
+protein (15-30% dry weight).
+
+Value-Chain Tiers: Pure-culture spawn labs → substrate growers → fresh markets, dried
+slices, and mushroom powders.
+
+Foraging Safety: Never identify wild mushrooms by color alone; Amanita amatoxins cause
+fatal hepatotoxicity.
+
+
+
+
+                                                                                             11
+GHANA CASE STUDY · 01
+
+Oyster Mushroom Enterprise in Ghana
+
+
+   Local Substrates                                   Enterprise Appeal
+   Upcycles triplochiton sawdust, rice straw,         6-week harvest cycles and low land
+   and oil palm fruit fiber.                          footprint suit urban youth SMEs.
+
+
+
+
+How To Start A Mushroom Business In Ghana                                                                   Key Bottlenecks
+                                                                                                            Trichoderma green-mould contamination
+                                                                                                            and short 48-hour fresh shelf life.
+
+
+
+
+   Ponder This: Should a peri-urban grower invest first in solar drying capacity or cold-chain transport?
+
+                                                                                                                                                    12
+PRODUCTION PIPELINE
+
+From Agro-Residue to Marketable Harvest
+
+
+
+
+              01                                       02                                     03                                       04
+      Compost & Steam                              Spawning                              Spawn Run                          Pinning & Harvest
+Pasteurize wetted sawdust bags to         Inoculate cooled substrate with      Incubate in dark rooms until white      Trigger fruiting via 85% humidity,
+     eliminate competitors.                     sterile grain spawn.               mycelium colonizes bags.                    light, and fresh air.
+
+
+
+
+                   Biological Efficiency (BE): Fresh mushroom weight ÷ dry substrate weight × 100 (typically 60–100% for Pleurotus).
+
+
+
+
+                                                                                                                                                            13
+ENTERPRISE ECONOMICS · WORKED EXAMPLE
+
+Monthly Break-Even Analysis for a Smallholder Farm
+
+
+
+
+Budget Item (Illustrative)                   Amount (GH₵)
+                                                            Break-Even Threshold
+Gross Revenue (120 kg @ GH₵35/kg)            GH₵ 4,200
+                                                            Break-Even Yield: GH₵2,850 ÷ GH₵35/kg =
+                                                            81.4 kg/month.
+Spawn, sawdust, bags & lime inputs           − GH₵ 1,150
+                                                            If Trichoderma mould destroys >32% of bags,
+Fuelwood/gas sterilization, water & labour   − GH₵ 1,700    the enterprise drops below break-even.
+
+Monthly Operating Surplus                    + GH₵ 1,350
+
+
+
+
+                                                                                                          14
+FOOD BIOTECHNOLOGY
+
+
+
+
+                     15
+FOOD BIOTECHNOLOGY
+
+Yeasts in Baking and Fermented Foods
+
+
+                            C6H12O6 (Glucose) → 2 C2H5OH (Ethanol) + 2 CO2 (Leavening Gas)
+
+
+                         Pure Yeast Processes: Saccharomyces cerevisiae drives bread leavening, brewing, and palm
+                         wine fermentation.
+
+                         Mixed Consortia in Ghana: Maize doughs (kenkey, banku) rely on lactic acid bacteria co-
+                         fermenting with yeasts (Candida, Saccharomyces).
+
+                         Economic Value: Extends shelf stability without refrigeration and enhances B-vitamin
+                         bioavailability.
+
+
+                           Ponder This: Why do traditional kenkey starters outperform single-strain baker's yeast in
+                           tropical storage?
+
+
+
+
+                                                                                                                       16
+MODULE 03
+
+
+Industrial Bioproducts, Pharmaceuticals
+& Biocontrol
+
+
+
+
+                                          17
+FUNGAL BIOTECHNOLOGY
+
+Industrial Organic Acids and Commercial Enzymes
+
+
+
+
+                                                  18
+FUNGAL BIOTECHNOLOGY
+
+Industrial Organic Acids and Commercial Enzymes
+
+
+
+
+Fungal Workhorse       Bioproduct                   Industrial Sector & Application
+
+Aspergillus niger      Citric acid & glucoamylase   Beverage acidulant, pharmaceuticals, starch-to-glucose syrup
+
+Trichoderma reesei     Cellulases & xylanases       Bioethanol saccharification, textile biopolishing, paper pulp
+
+Aspergillus oryzae     α-Amylases & proteases       Baking dough conditioning, soy fermentation, detergent enzymes
+
+Fusarium venenatum     Mycoprotein biomass          Low-fat, high-fiber sustainable meat alternative (Quorn)
+
+
+
+
+                                                                                                                     19
+SECONDARY METABOLITE THERAPEUTICS
+
+
+
+
+                                    20
+SECONDARY METABOLITE THERAPEUTICS
+
+Life-Saving Pharmaceuticals Derived from Fungi
+
+
+
+Penicillins (Penicillium rubens): β-Lactam antibiotics inhibiting bacterial peptidoglycan synthesis.
+
+
+Cephalosporins (Acremonium chrysogenum): Broad-spectrum β-lactams resistant to many β-lactamases.
+
+
+Lovastatin (Aspergillus terreus): HMG-CoA reductase inhibitor lowering serum LDL cholesterol.
+
+
+Cyclosporine A (Tolypocladium inflatum): Calcineurin inhibitor preventing organ transplant rejection.
+
+
+
+
+                                                                                                        21
+EMERGING BIOECONOMY & RESEARCH
+
+Mycelium Biomaterials and Model Organisms
+
+
+
+
+   Mycelium Composites                                           Model Systems
+   Ganoderma and Pleurotus hyphae bind agricultural husks into   Saccharomyces cerevisiae and Neurospora crassa underpin
+   biodegradable foam packaging and acoustic panels.             eukaryotic genomics, CRISPR screening, and diagnostics.
+
+
+
+
+   Ponder This: What are mycelium-bound biocomposites?
+
+
+
+
+                                                                                                                           22
+23
+INTEGRATED PEST MANAGEMENT
+
+Fungal Biocontrol Agents in Crop Protection
+
+
+
+
+   Trichoderma Antagonists                                                                            Atoxigenic A. flavus
+                                                    Entomopathogens
+   Suppresses Fusarium and Rhizoctonia via                                                            Aflasafe strains competitively exclude
+                                                    Beauveria bassiana and Metarhizium
+   mycoparasitism and root priming.                                                                   aflatoxin producers in maize fields.
+                                                    acridum control locusts and weevils.
+
+
+
+
+   Ponder This: How can Trichoderma be a costly contaminant in mushroom bags yet a profitable input in maize soil?
+
+
+
+
+                                                                                                                                               24
+MODULE 04
+
+
+Plant Pathology, Mycotoxins & Human
+Mycoses
+
+
+
+
+                                      25
+AGRICULTURAL LOSSES
+
+
+
+
+                      26
+AGRICULTURAL LOSSES
+
+High-Impact Fungal Crop Diseases Worldwide
+
+
+
+                         Rice Blast (Magnaporthe oryzae): Destroys enough rice annually to feed over 60 million
+                         people.
+
+                         Wheat Stem Rust (Puccinia graminis): Virulent Ug99 lineage threatens East African and
+                         global wheat harvests.
+
+                         Coffee Leaf Rust (Hemileia vastatrix): Defoliates Arabica coffee, slashing smallholder
+                         export revenue.
+
+                         Postharvest Moulds (Botrytis, Penicillium): Cause 10–30% transit and storage losses in
+                         fruits and grains.
+
+
+
+
+                                                                                                                  27
+GHANA CASE STUDY · CRITICAL TAXONOMIC DISTINCTION
+
+Cocoa Black Pod: Oomycetes vs. True Fungi
+
+
+
+Causal Agents: Phytophthora megakarya (aggressive West African species) and P.
+palmivora.
+
+Stramenopila (Not Fungi): Oomycetes possess cellulose cell walls, diploid hyphae, and
+biflagellate zoospores.
+
+Epidemiology: Rain splash transfers soil zoospores onto low pods, causing rapid brown-
+black necrosis.
+
+Economic Toll: Unmanaged wet-season outbreaks destroy 30-90% of pods on affected
+Ghanaian farms.
+
+
+
+
+                                                                                         28
+DISEASE MANAGEMENT STRATEGY
+
+Integrated Control of Cocoa Black Pod
+
+
+
+
+   1. Phytosanitation                               2. Canopy & Drainage                             3. Targeted Fungicides
+   Weekly removal and burial of black pods          Pruning improves airflow and lowers              COCOBOD-approved copper or metalaxyl
+   breaks secondary sporulation cycles.             microclimate humidity below zoospore             sprays timed to peak rainy months.
+                                                    thresholds.
+
+
+
+
+   Ponder This: Why do anti-chitin fungicides fail against Phytophthora megakarya in Ghanaian cocoa farms?
+
+
+
+
+                                                                                                                                            29
+GHANA CASE STUDY · 03 · MYCOTOXIN ECONOMICS
+
+Aflatoxin Contamination in Maize and Groundnut
+
+
+
+                                              Toxigenic Producers: Aspergillus flavus and A. parasiticus colonize drought-stressed or
+                                              damp grain.
+
+                                              Public Health Hazard: Aflatoxin B1 is a Group 1 liver carcinogen causing child stunting and
+                                              acute toxicosis.
+
+                                              Trade & Feed Losses: Export rejection at EU borders and Aflatoxin M1 carryover into dairy
+                                              milk.
+
+                                              Safety Rule: Invisible toxins persist after cooking; chemical ELISA or lateral-flow testing is
+                                              mandatory.
+
+
+
+
+                                                                                                                                               30
+FOOD SAFETY & MYCOTOXICOLOGY
+
+Supply-Chain Prevention & Major Mycotoxins
+
+
+   4-Step Aflatoxin Barrier: (1) Field Aflasafe biocontrol → (2) Rapid drying to <13% moisture → (3) Hermetic PICS bags → (4) Lot testing.
+
+
+
+
+Mycotoxin                      Primary Genera                   Commodities & Toxicological Impact
+
+
+Fumonisins                     Fusarium verticillioides         Maize; linked to esophageal cancer and equine leukoencephalomalacia
+
+
+Ochratoxin A                   Aspergillus & Penicillium        Cocoa beans, coffee, stored cereals; nephrotoxic
+
+
+Deoxynivalenol (DON)           Fusarium graminearum             Wheat and barley; causes feed refusal and immunosuppression
+
+
+
+
+                                                                                                                                             31
+MEDICAL MYCOLOGY & HEALTH ECONOMICS
+
+
+
+
+                                      32
+Question
+
+
+
+
+ Discuss the economic importance of fungi, using specific examples to explain their beneficial roles in food,
+ medicine, agriculture, industry, and ecosystem functioning, as well as the negative economic effects of fungal
+ diseases in humans, animals, and plants.
+
+
+
+
+                                                                                                                  33
+CORE REFERENCES
+
+
+
+
+ • Webster & Weber (2007): Introduction to Fungi, 3rd ed. (Chs. 1, 7-11, 19, 25).
+
+ • WHO (2022) & FAO/COCOBOD: Fungal Priority Pathogens List & Ghana Black Pod / Aflatoxin briefs.
+
+ • Niego AG, Lambert C, Mortimer P, Thongklang N, Rapior S, Grosse M, Schrey H, Charria-Girón E, Walker A, Hyde
+   KD, Stadler M. The contribution of fungi to the global economy. Fungal Diversity. 2023 Jul;121(1):95-137.
+
+
+
+
+                                                                                                                  34
+

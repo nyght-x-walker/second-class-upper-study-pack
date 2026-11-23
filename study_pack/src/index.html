@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="dark light">
+  <title>Second Class Upper — Study Pack</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">2:1</div>
+      <div class="brand-text">
+        <h1>Second Class Upper</h1>
+        <p id="semesterLabel">Study system</p>
+      </div>
+    </div>
+    <div class="topbar-meta">
+      <button id="examCountdown" class="pill pill-muted" data-action="goto-settings">Set exam date</button>
+      <button id="modeBadge" class="pill mode-full" data-action="cycle-mode">Full syllabus</button>
+      <button class="icon-btn" data-action="toggle-theme" title="Toggle light/dark theme" aria-label="Toggle theme">◐</button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs" aria-label="Study views">
+    <button data-view="today" class="active">Today</button>
+    <button data-view="timetable">Timetable</button>
+    <button data-view="courses">Courses</button>
+    <button data-view="review">Review</button>
+    <button data-view="triage">Triage</button>
+    <button data-view="progress">Progress</button>
+    <button data-view="settings">Settings</button>
+  </nav>
+
+  <main class="wrap">
+    <section id="view-today" class="view active" aria-labelledby="today-heading"></section>
+    <section id="view-timetable" class="view" aria-labelledby="timetable-heading"></section>
+    <section id="view-courses" class="view" aria-labelledby="courses-heading"></section>
+    <section id="view-review" class="view" aria-labelledby="review-heading"></section>
+    <section id="view-triage" class="view" aria-labelledby="triage-heading"></section>
+    <section id="view-progress" class="view" aria-labelledby="progress-heading"></section>
+    <section id="view-settings" class="view" aria-labelledby="settings-heading"></section>
+  </main>
+
+  <div id="modalRoot"></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="data/meta.js"></script>
+  <script src="data/biol325.js"></script>
+  <script src="data/biol331.js"></script>
+  <script src="data/biol335.js"></script>
+  <script src="data/biol323.js"></script>
+  <script src="data/biol329.js"></script>
+  <script src="data/biol339.js"></script>
+  <script src="data/biol343.js"></script>
+  <script src="data/biol307.js"></script>
+  <script src="data/practicals.js"></script>
+  <script src="app-core.js"></script>
+  <script src="app-views.js"></script>
+  <script src="app-views2.js"></script>
+  <script src="app-ui.js"></script>
+  <script src="app-timer.js"></script>
+  <script src="app-actions.js"></script>
+</body>
+</html>
